@@ -89,3 +89,10 @@ long as we can build it easily by following your instructions.
   - There must be no duplicates (by Google Books id).
   - The results should be visually appealing, styled logically, and fully responsive for mobile
     devices.
+
+### Resources
+- NodeJS https://nodejs.org/en/
+- ExpressJS https://expressjs.com/
+- PostgreSQL https://www.postgresql.org/docs/, https://node-postgres.com/
+- Google Books API https://developers.google.com/books/docs/v1/reference/
+- DocNetwork! If you have any questions about the specifications or implementation, feel free to reach out to us. It will not count against your final review, and may even end up being a plus.
