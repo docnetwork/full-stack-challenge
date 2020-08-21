@@ -1,6 +1,8 @@
 # A Big Stack of Google Books
 
-So you're full stack, huh? Name every stack. Just kidding, we believe ya.
+![](https://i.imgflip.com/4c9scu.jpg)
+
+Just kidding, we believe ya.
 
 This challenge is an opportunity to show off your skills across the entire stack. You'll build a
 rudimentary search engine that falls back to Google Books. Your front end will take in queries and
@@ -17,6 +19,10 @@ previously submitted queries) or makes a call to the Google Books API.
 
 Be it API-level or visual, design is important. We value code that's easy to use and maintain. We value
 appealing, user-centric interfaces. We don't value compromise on this topic—show us what you've got!
+
+Efficiency is also important. Feel free to use UI Frameworks/Component Libraries such as Vuetify or
+MaterialUI to actualize your good Frontend designs. Similaraly, you're welcome to use an ORM or
+other Backend module to facilitate efficent, well designed Backend code.
 
 **You are encouraged (but not required) to use ES6+ JavaScript.**
 
@@ -70,7 +76,7 @@ long as we can build it easily by following your instructions.
         - Angular
         - Vanilla JS
       - You may _not_ use jQuery
-      - If you choose another frameowrk, update the build scripts accordingly
+      - If you choose another framework, update the build scripts accordingly
   - There should be a search bar to input a query.
   - The results should be rendered in the results area. You must include these fields (if available for the record):
     - Cover Image
