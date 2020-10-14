@@ -6,7 +6,7 @@ Just kidding, we believe ya.
 
 This challenge is an opportunity to show off your skills across the entire stack. You'll build a
 rudimentary search engine that falls back to Google Books. Your front end will take in queries and
-display results. Your back end receives those queries and either returns a cached result (for
+display results. Your back end receives those queries and either returns a stored result (for
 previously submitted queries) or makes a call to the Google Books API.
 
 ## Instructions
