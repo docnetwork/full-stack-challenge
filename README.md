@@ -27,7 +27,7 @@ other Backend module to facilitate efficent, well designed Backend code.
 **You are encouraged (but not required) to use ES6+ JavaScript.**
 
 We use a lot of ES6+ JS at DocNetwork. We will be testing your submission with the latest versions
-of Chrome and Firefox. We'll run your server with Node 10.X (unless otherwise specified). You're
+of Chrome and Firefox. We'll run your server with Node 14.X (unless otherwise specified). You're
 welcome to use any front end build system that your chosen framework (see requirements) supports so
 long as we can build it easily by following your instructions.
 
